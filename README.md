@@ -9,26 +9,39 @@
 
 <hr>
 
-<div> 
-  <h4 align="left">Sobre Mi</h4>
+<section align="center">  
+  <h3>Sobre Mi</h3>
   <p>Tengo 21 años, soy de Buenos Aires, Argentina, y estoy estudiando una diplomatura en programacion full stack</p>
-</div>
-<div>
-  <h4>En este momento estoy estudiando: </h4>
-  <ul>
-    <li><img src="https://skillicons.dev/icons?i=css"></li>
-    <li><img src="https://skillicons.dev/icons?i=html"></li>
-  </ul>
-</div>
+</section>
+
+<section  align="center">
+  <h3>En este momento estoy estudiando: </h3>
+    <div>
+      <img src="https://skillicons.dev/icons?i=css,html">
+    </div>
+</section>
 
 <hr>
 
-<div>
-  <h4>Comunicarse en: </h4>
+<section align="center">
+  <h3>Aplicaciones que uso: </h3>
   <span>
-    <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-    <a href="https://www.instagram.com/juanpablochazarreta/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
-    <a href="mailto: juanpablochazarretavera@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"></a>
+    <div>
+      <img src="https://skillicons.dev/icons?i=vscode">     
+    </div>
+  </span>
+</section>
+
+<hr>
+
+<section align="center">
+  <h3>Comunicarse en: </h3>
+    <span>
+      <div>
+        <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+        <a href="https://www.instagram.com/juanpablochazarreta/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
+        <a href="mailto: juanpablochazarretavera@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"></a>
+      </div>
     </span>
-</div>
+</section>
 
