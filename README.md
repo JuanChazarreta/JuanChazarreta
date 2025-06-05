@@ -38,7 +38,7 @@
   <h3>Comunicarse en: </h3>
     <span>
       <div>
-        <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+        <a href="www.linkedin.com/in/juan-pablo-chazarreta-vera-24b866330" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
         <a href="https://www.instagram.com/juanpablochazarreta/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
         <a href="mailto: juanpablochazarretavera@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"></a>
       </div>
