@@ -12,6 +12,17 @@
 <section align="center">  
   <h3>Sobre Mi</h3>
   <p>Tengo 21 años, soy de Buenos Aires, Argentina, y estoy estudiando una diplomatura en programacion full stack</p>
+
+  <div align="center">
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+
 </section>
 
 <section  align="center">
