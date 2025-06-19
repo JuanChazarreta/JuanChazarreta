@@ -28,7 +28,7 @@
 <section  align="center">
   <h3>En este momento estoy estudiando: </h3>
     <div>
-      <img src="https://skillicons.dev/icons?i=css,html">
+      <img src="https://skillicons.dev/icons?i=css,html,js">
     </div>
 </section>
 
