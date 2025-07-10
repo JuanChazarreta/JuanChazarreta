@@ -1,5 +1,5 @@
 <div align="center">
-  <a style="justify-content: center; display: flex;"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=5c5a6e&background=FF1EC500&center=true&vCenter=true&multiline=true&width=520&height=80&lines=Que+tal%3F%2C+Bienvenidos+a+mi+perfil+de+Github;Mi+nombre+es+Juan+Pablo+Chazarreta+Vera" alt="Typing SVG" /></a>
+  <a style="justify-content: center; display: flex;"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=5c5a6e&background=FF1EC500&center=true&vCenter=true&multiline=true&width=520&height=80&lines=Hola%2C+soy+Juan+Pablo+Chazarreta+Vera" alt="Typing SVG" /></a>
 </div>
 
 <div align="center" style="margin-bottom:150px" >  
