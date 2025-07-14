@@ -15,20 +15,22 @@
 <section  align="center">
   <h3>En este momento estoy estudiando: </h3>
     <div>
-      <img src="https://skillicons.dev/icons?i=css,html,js">
+        <img src="https://skillicons.dev/icons?i=html">
+        <img src="https://skillicons.dev/icons?i=css">
+        <img src="https://skillicons.dev/icons?i=js">
     </div>
 </section>
 
 <hr>
 
-<section align="center">
+<!--<section align="center">
   <h3>Aplicaciones que uso: </h3>
   <span>
     <div>
       <img src="https://skillicons.dev/icons?i=vscode">     
     </div>
   </span>
-</section>
+</section>-->
 
 <hr>
 
